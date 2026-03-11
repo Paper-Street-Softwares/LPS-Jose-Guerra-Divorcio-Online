@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://divorcio-online.bentakadvespecializada.com.br/sitemap.xml
+Sitemap: https://divorcio-online-joseguerra.advespecialista.adv.br/sitemap.xml
