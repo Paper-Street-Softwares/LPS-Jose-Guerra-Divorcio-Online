@@ -147,7 +147,7 @@ const content = {
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Atendimento direto com Advogado",
+        text: "Atendimento direto com Advogado.",
         textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
