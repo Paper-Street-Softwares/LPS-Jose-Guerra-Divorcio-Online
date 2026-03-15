@@ -132,8 +132,8 @@ const content = {
       SecondPart: <span>— RÁPIDO, SEGURO E SEM SAIR DE CASA</span>,
       subtitle: (
         <p>
-          Resolva seu divórcio com ajuda de Advogado Especialista, tudo pela
-          internet, sem conflitos e sem burocracias desnecessárias.
+          Resolva seu divórcio com ajuda de Advogado Especialista em Divórcios,
+          tudo pela internet, sem conflitos e sem burocracias desnecessárias.
         </p>
       ),
       heroDefaultImage: heroDefaultImg,
@@ -147,7 +147,7 @@ const content = {
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Atendimento direto com Advogado.",
+        text: "Atendimento 100% Online ou Presencial em Sorocaba - SP.",
         textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
