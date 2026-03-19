@@ -147,7 +147,7 @@ const content = {
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Atendimento 100% Online ou Presencial em Sorocaba - SP.",
+        text: "Atendimento Online ou Presencial.",
         textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
