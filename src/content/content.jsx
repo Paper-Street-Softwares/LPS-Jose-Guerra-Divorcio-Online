@@ -147,7 +147,7 @@ const content = {
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Atendimento Online ou Presencial.",
+        text: "Atendimento imediato e 100% Online.",
         textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
